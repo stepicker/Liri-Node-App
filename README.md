@@ -17,11 +17,11 @@ The first three commands should always be followed by a search string:
 
 | Command | Search String | Example |
 | :------: | :-----------: | :------------: |
-| concert-this | name of an artist or band | rolling stones |
-| spotify-this-song | name of a song | bohemian rhapsody |
-| movie-this | name of a movie | back to the future |
+| concert-this | _name of an artist or band_ | rolling stones |
+| spotify-this-song | _name of a song_ | bohemian rhapsody |
+| movie-this | _name of a movie_ | back to the future |
 
-The fourth command will read and run the command and the search string saved in a random.txt file, separated by comma. For example:
+The fourth command will read and run the command and the search string saved in a `random.txt` file, separated by comma. For example:
 ```shell
 concert-this,Justin Timberlake
 ```
@@ -62,7 +62,7 @@ Venue Location: Oklahoma City, OK
 Date of the Event: Tomorrow at 7:30 PM
 ```
 
-The results are displayed in the CLI, and also saved in a log.txt file.
+The results are displayed in the CLI, and also saved in a `log.txt` file.
 
 ## Demo
 
