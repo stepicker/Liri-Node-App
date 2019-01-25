@@ -1,8 +1,8 @@
 # Liri-Node-App
 
-First Node.js assignment at the Penn Coding Bootcamp!
+First assignment using Node.js at the Penn Coding Bootcamp!
 
-LIRI is a Language Interpretation and Recognition Interface.
+__LIRI__ is a Language Interpretation and Recognition Interface.
 
 ## How it works
 
@@ -51,7 +51,8 @@ IMDB Rating: 8.5/10
 Rotten Tomatoes Rating: 96%
 Country of production: USA
 Language: English
-Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past
+in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
 Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
 ```
 
