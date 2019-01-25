@@ -21,7 +21,7 @@ The first three commands should always be followed by a search string:
 | spotify-this-song | _name of a song_ | bohemian rhapsody |
 | movie-this | _name of a movie_ | back to the future |
 
-The fourth command will read and run the command and the search string saved in a `random.txt` file, separated by comma. For example:
+The fourth command will read and run the command and the search string saved in a `random.txt` file, separated by comma, such as:
 ```shell
 concert-this,Justin Timberlake
 ```
