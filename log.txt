@@ -75,3 +75,25 @@ Name of the Venue: Chesapeake Energy Arena
 Venue Location: Oklahoma City, OK
 Date of the Event: Tomorrow at 7:30 PM
 ----------
+Name of the Venue: Hard Rock Stadium
+Venue Location: Miami Gardens, FL
+Date of the Event: 04/20/2019
+----------
+Artist: Queen
+Song: Bohemian Rhapsody - Remastered 2011
+Spotify URL: https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
+Album: A Night At The Opera (Deluxe Remastered Version)
+----------
+Title: Back to the Future
+Released in 1985
+IMDB Rating: 8.5/10
+Rotten Tomatoes Rating: 96%
+Country of production: USA
+Language: English
+Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+----------
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City, OK
+Date of the Event: Tomorrow at 7:30 PM
+----------
