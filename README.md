@@ -4,6 +4,7 @@ First assignment using Node.js at the Penn Coding Bootcamp!
 
 __LIRI__ is a Language Interpretation and Recognition Interface.
 
+
 ## How it works
 
 LIRI works in the CLI (Command Line Interface) and accepts four possible commands:
@@ -26,9 +27,10 @@ The fourth command will read and run the command and the search string saved in 
 concert-this,Justin Timberlake
 ```
 
+
 ## Examples
 
-Here is the app in action, using the examples ion the table above:
+Here is the app in action, using the examples in the table above:
 
 ```shell
 node liri.js concert-this rolling stones
@@ -54,7 +56,7 @@ Rotten Tomatoes Rating: 96%
 Country of production: USA
 Language: English
 Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past
-in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+with a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
 Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
 ```
 
@@ -66,6 +68,7 @@ Date of the Event: Tomorrow at 7:30 PM
 ```
 
 The results are displayed in the CLI, and also saved in a `log.txt` file.
+
 
 ## Demo
 
