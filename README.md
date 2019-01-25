@@ -74,7 +74,7 @@ The results are displayed in the CLI, and also saved in a `log.txt` file.
 
 [![Screenshot](https://raw.githubusercontent.com/stepicker/Liri-Node-App/master/screenshot.png)](https://youtu.be/XQNAK5zsTBA)
 
-Here is a [YouTube video](https://youtu.be/XQNAK5zsTBA) I made with a complete demo. The outcome of every command is shown in the CLI and updated in `log.txt` at the same time.
+Here is a [YouTube video](https://youtu.be/XQNAK5zsTBA) I made with a complete demo, showing in one screen how the outcome of every command is returned in the CLI and updated in `log.txt` at the same time.
 
 ## Under the hood
 
