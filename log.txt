@@ -52,43 +52,26 @@ Name of the Venue: American Airlines Center
 Venue Location: Dallas, TX
 Date of the Event: Yesterday at 7:30 PM
 ----------
-Artist: Gigi D'Agostino
-Song: Bla Bla Bla
-Spotify URL: https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9
-Album: L'Amour Toujours
-----------
-Artist: Various Artists
-Song: Scared of the Dark (feat. XXXTENTACION)
-Spotify URL: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-----------
-Artist: Various Artists
-Song: Scared of the Dark (feat. XXXTENTACION)
-Spotify URL: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Artist: Queen
+Song: Bohemian Rhapsody - Remastered 2011
+Spotify URL: https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
+Album: A Night At The Opera (Deluxe Remastered Version)
 ----------
 Artist: Ace of Base
 Song: The Sign
 Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
 Album: The Sign (US Album) [Remastered]
 ----------
-Artist: Ace of Base
-Song: The Sign
-Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
+Title: Gone with the Wind
+Released in 1939
+IMDB Rating: 8.2/10
+Rotten Tomatoes Rating: 92%
+Country of production: USA
+Language: English
+Plot: A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Actors: Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
 ----------
-Artist: Ace of Base
-Song: The Sign
-Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
-----------
-Artist: Ace of Base
-Song: The Sign
-Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
-----------
-Artist: Ace of Base
-Song: The Sign
-Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
+Name of the Venue: Chesapeake Energy Arena
+Venue Location: Oklahoma City, OK
+Date of the Event: Tomorrow at 7:30 PM
 ----------

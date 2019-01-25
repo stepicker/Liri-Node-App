@@ -23,6 +23,10 @@ for (var i = 3; i < process.argv.length; i++) {
 
 searchString = searchString.slice(0, -1);
 
+if (command === "spotify-this-song" && searchString === "") {
+    searchString = "The Sign Ace of Base";
+};
+
 
 // Creating the logging function for later use
 
@@ -63,7 +67,7 @@ else if (command === "spotify-this-song") {
     spotify.search({ type: 'track', query: searchString }, function(err, data) {
 
         if (err) {
-          return console.log("Error occurred. " + err + " - Defaulting to The Sign by Ace of Base...\nArtist: Ace of Base\nSong: The Sign\nSpotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE\nAlbum: The Sign (US Album) [Remastered]");
+          return console.log("Error occurred. " + err);
         }
         
         var result = ("Artist: " + data.tracks.items[0].album.artists[0].name + "\n" + "Song: " + data.tracks.items[0].name + "\n" + "Spotify URL: " + data.tracks.items[0].external_urls.spotify + "\n" + "Album: " + data.tracks.items[0].album.name + "\n" + "----------" + "\n");
