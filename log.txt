@@ -97,3 +97,31 @@ Name of the Venue: Chesapeake Energy Arena
 Venue Location: Oklahoma City, OK
 Date of the Event: Tomorrow at 7:30 PM
 ----------
+Title: Mr. Nobody
+Released in 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+Country of production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------
+Title: Mr. Nobody
+Released in 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+Country of production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------
+Artist: Ace of Base
+Song: The Sign
+Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+----------
+Artist: Queen
+Song: Somebody To Love - Remastered 2011
+Spotify URL: https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf
+Album: A Day At The Races (Deluxe Remastered Version)
+----------

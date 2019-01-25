@@ -25,8 +25,10 @@ searchString = searchString.slice(0, -1);
 
 if (command === "spotify-this-song" && searchString === "") {
     searchString = "The Sign Ace of Base";
+}
+else if (command === "movie-this" && searchString === "") {
+    searchString = "Mr Nobody";
 };
-
 
 // Creating the logging function for later use
 
