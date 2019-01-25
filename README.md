@@ -72,7 +72,9 @@ The results are displayed in the CLI, and also saved in a `log.txt` file.
 
 ## Demo
 
+![Screenshot](https://raw.githubusercontent.com/stepicker/Liri-Node-App/master/screenshot.png)
 
+Here is a [YouTube video](https://youtu.be/XQNAK5zsTBA) I made to show a complete demo, with the result being shown in the CLI and updated in `log.txt` at the same time.
 
 ## Under the hood
 
