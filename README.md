@@ -50,7 +50,7 @@ Album: A Night At The Opera (Deluxe Remastered Version)
 ```shell
 node liri.js movie-this back to the future
 Title: Back to the Future
-Released in 1985
+Released: 1985
 IMDB Rating: 8.5/10
 Rotten Tomatoes Rating: 96%
 Country of production: USA
