@@ -9,10 +9,10 @@ __LIRI__ is a Language Interpretation and Recognition Interface.
 
 LIRI works in the CLI (Command Line Interface) and accepts four possible commands:
 
-> `concert-this`
-> `spotify-this-song`
-> `movie-this`
-> `do-what-it-says`
+> 1. `concert-this`
+> 2. `spotify-this-song`
+> 3. `movie-this`
+> 4. `do-what-it-says`
 
 The first three commands should always be followed by a search string:
 
