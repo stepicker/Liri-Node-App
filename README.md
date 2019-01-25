@@ -9,10 +9,10 @@ __LIRI__ is a Language Interpretation and Recognition Interface.
 
 LIRI works in the CLI (Command Line Interface) and accepts four possible commands:
 
-> + `concert-this`
-> + `spotify-this-song`
-> + `movie-this`
-> + `do-what-it-says`
+> `concert-this`
+> `spotify-this-song`
+> `movie-this`
+> `do-what-it-says`
 
 The first three commands should always be followed by a search string:
 
@@ -78,13 +78,13 @@ The results are displayed in the CLI, and also saved in a `log.txt` file.
 
 This app uses the following NPM packages:
 
-> + Axios
-> + Node-Spotify-API
-> + Moment
-> + DotEnv
++ Axios
++ Node-Spotify-API
++ Moment
++ DotEnv
 
 It also leverages the following APIs:
 
-> + Bands In Town
-> + Spotify
-> + OMDb
++ Bands In Town
++ Spotify
++ OMDb
