@@ -28,6 +28,8 @@ concert-this,Justin Timberlake
 
 ## Examples
 
+Here is the app in action, using the examples ion the table above:
+
 ```shell
 node liri.js concert-this rolling stones
 Name of the Venue: Hard Rock Stadium
