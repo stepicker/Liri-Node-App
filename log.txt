@@ -2,10 +2,19 @@ Name of the Venue: Hard Rock Stadium
 Venue Location: Miami Gardens, FL
 Date of the Event: 04/20/2019
 ----------
+Name of the Venue: Times Union Center
+Venue Location: Albany, NY
+Date of the Event: 03/18/2019
+----------
 Artist: Queen
 Song: Bohemian Rhapsody - Remastered 2011
 Spotify URL: https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J
 Album: A Night At The Opera (Deluxe Remastered Version)
+----------
+Artist: R.E.M.
+Song: Losing My Religion
+Spotify URL: https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx
+Album: Out Of Time (25th Anniversary Edition)
 ----------
 Title: Back to the Future
 Released in 1985
@@ -16,11 +25,6 @@ Language: English
 Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
 Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
 ----------
-Artist: Backstreet Boys
-Song: I Want It That Way
-Spotify URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-Album: The Hits--Chapter One
-----------
 Title: Bohemian Rhapsody
 Released in 2018
 IMDB Rating: 8.3/10
@@ -29,4 +33,22 @@ Country of production: UK, USA
 Language: English
 Plot: The story of the legendary rock music band Queen and its lead singer Freddie Mercury.
 Actors: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy
+----------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Spotify URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+----------
+Title: Mary Poppins Returns
+Released in 2018
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 78%
+Country of production: USA
+Language: English
+Plot: Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives.
+Actors: Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer
+----------
+Name of the Venue: American Airlines Center
+Venue Location: Dallas, TX
+Date of the Event: Yesterday at 7:30 PM
 ----------
